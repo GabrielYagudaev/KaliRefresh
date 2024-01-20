@@ -39,7 +39,7 @@ KaliRefresh is an efficient and meticulously developed script that aims to simpl
 3. **Execute the Script:**
    - Run the script using the following command:
      ```
-     bash KaliRefresh.sh
+     bash kali_updates.sh
      ```
 
 4. **Follow the Prompts:**
