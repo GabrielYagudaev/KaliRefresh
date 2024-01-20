@@ -56,7 +56,7 @@ This script is open-source and is released under the [MIT License](LICENSE). You
 
 ## Connect with Gabriel Yagudaev
 
-- LinkedIn: [Gabriel Yagudaev](https://www.linkedin.com/in/gabrielyagudaev/)
+- LinkedIn: [Gabriel Yagudaev](https://www.linkedin.com/in/gabriel-yagudaev/)
 - GitHub: [GabrielYagudaev](https://github.com/GabrielYagudaev)
 - Instagram: [Gabriel Yagudaev](https://www.instagram.com/gabriel_yagudaev)
 ## Tags
