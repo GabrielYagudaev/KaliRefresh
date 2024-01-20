@@ -43,9 +43,22 @@ KaliRefresh is an efficient and meticulously developed script that aims to simpl
      ```
 
 4. **Follow the Prompts:**
-   - When prompted, confirm the desired actions.
-   - Sit back and allow the script to perform its tasks.
+- Please confirm the desired actions when you are prompted.
+- Just sit back and relax while the script does its magic!
 
 ## Feedback and Contributions
 
-Your feedback is highly valued! If you encounter any bugs, have feature requests, or suggestions, please feel free to open issues. Contributions are also welcome through pull requests. Together, we can enhance and improve KaliRefresh for the benefit of
+We highly appreciate your feedback! If you have any bug reports, feature requests, or suggestions, please feel free to open issues. We also welcome contributions through pull requests. Let's work together to enhance and improve KaliRefresh for the community.
+
+## License
+
+This script is open-source and is released under the [MIT License](LICENSE). You are free to use, modify, and distribute it in accordance with the terms of the license.
+
+## Connect with Gabriel Yagudaev
+
+- LinkedIn: [Gabriel Yagudaev](https://www.linkedin.com/in/gabrielyagudaev/)
+- GitHub: [GabrielYagudaev](https://github.com/GabrielYagudaev)
+- Instagram: [Gabriel Yagudaev](https://www.instagram.com/gabriel_yagudaev)
+## Tags
+
+#Linux #SystemUpdate #Automation #TechScript #OpenSource
